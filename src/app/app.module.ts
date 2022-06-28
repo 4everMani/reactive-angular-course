@@ -48,7 +48,7 @@ import { CourseCardListComponent } from './course-card-list/course-card-list.com
     MessagesComponent,
     SearchLessonsComponent,
     LoadingComponent,
-    CourseCardListComponent
+    CourseCardListComponent,
 
   ],
   imports: [
@@ -73,7 +73,7 @@ import { CourseCardListComponent } from './course-card-list/course-card-list.com
     MatSelectModule,
     MatDatepickerModule,
     MatMomentDateModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
   ],
   providers: [
   ],
